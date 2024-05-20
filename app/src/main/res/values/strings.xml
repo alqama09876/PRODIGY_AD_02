@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="my_notes">My Notes</string>
+    <string name="add_notes">Add New Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="email">Email</string>
+    <string name="Display">Display Data</string>
+    <string name="update_notes">Update Notes</string>
+    <string name="update">Update</string>
+</resources>
